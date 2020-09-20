@@ -5,26 +5,28 @@
     padding: 0 20px;
     display: flex;
     justify-content: space-between;
-    background-color: #ffa41cb2;;
+    background-color: #2f2c63;
 }
-.logo {
-    padding: 10px 0;
-    margin-bottom: 10px;
+
+
+.logo img {
+    width: 100px;
+    height: 100px;
 }
  
 .links {
     list-style: none;
     justify-content: space-around;
-    padding: 40px 30px;
+    padding: 35px 30px;
     text-align: center;
     font-size: 25px;
     font-weight: bolder;
-    color: rgb(63, 29, 97);
+    color: white;
     height: 110px;
 }
 
 .links:hover {
-    background-color: blanchedalmond;
+    background-color: gray;
     color: white;
     height: 110px;
 }

@@ -3,7 +3,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import DeslogadoLinks from './DeslogadoLinks'
 import LogadoLinks from './LogadoLinks';
-import Logo  from '../imagens/Logo.png';
+import Logo  from '../imagens/logocanteena1.png';
 import Form from '../Form';
 import ProdutosVitrine from '../ProdutosVitrine';
 
